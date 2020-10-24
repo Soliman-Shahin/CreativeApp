@@ -1,0 +1,8 @@
+{
+    "name": "CreativeApp-Ionic",
+    "integrations": {
+        "capacitor": {},
+        "cordova": {}
+    },
+    "type": "angular"
+}
